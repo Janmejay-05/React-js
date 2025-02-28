@@ -28,6 +28,7 @@ const ProductCont = () => {
             username={element.username}
             email={element.email}
             password={element.password}
+            
           />
         );
       })}
