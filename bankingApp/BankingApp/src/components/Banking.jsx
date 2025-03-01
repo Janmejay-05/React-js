@@ -37,7 +37,7 @@ const Banking = () => {
       }}
     >
       <div
-        className="h-[400px] w-[500px] bg-[#ffffff16] rounded-2xl text-white flex flex-col gap-[50px] p-6 transition-all duration-300"
+        className="h-[400px] w-[550px] bg-[#ffffff16] rounded-2xl text-white flex flex-col gap-[50px] p-6 transition-all duration-300"
         style={{
           ...shadowStyle, // Apply dynamic shadow effect
           transition: "box-shadow 0.1s ease-out",
