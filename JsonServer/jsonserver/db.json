@@ -1,0 +1,39 @@
+{
+  "user": [
+    {
+      "id": "6846",
+      "email": "jaythakkar5125@gmail.com",
+      "password": "1234"
+    },
+    {
+      "email": "janmejayazala@gmail.com",
+      "password": "jayzala",
+      "id": "0201"
+    },
+    {
+      "email": "jay",
+      "password": "12434",
+      "id": "804b"
+    },
+    {
+      "id": "72f8",
+      "email": "jjaayy",
+      "password": "zala"
+    },
+    {
+      "email": "foramraval@gmail.com",
+      "password": "RAVAL",
+      "id": "e944"
+    },
+    {
+      "email": "arpit",
+      "password": "1234",
+      "id": "eef3"
+    },
+    {
+      "email": "nidhi",
+      "password": "1234",
+      "id": "84ad"
+    }
+  ]
+}
